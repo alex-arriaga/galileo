@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A set of Linked-data driven web components",
   "main": "index.js",
-  "repository": "https://github.com/alex-arriaga/galileo.git",
+  "repository": "https://github.com/bentoboxes/bento-box-four.git",
   "author": "Alex Arriaga <alex.arriaga.m@gmail.com> (http://alex-arriaga.com)",
   "contributors": [
     {
